@@ -1,0 +1,6 @@
+5
+this_is_a_test
+this_is_also_a_test
+wow_i'm_amazed_that_this_actually_works
+This_is_pretty_cool
+Last_line_is_here

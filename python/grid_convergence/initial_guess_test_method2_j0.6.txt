@@ -1,0 +1,110 @@
+
+
+
+Pitch Iteration 1
+
+
+
+Begin Newton's solver
+
+Iteration = 0    Max residual = 3.5e+01
+Iteration = 1    Max residual = 4.4e-01
+Iteration = 2    Max residual = 2.8e-04
+Iteration = 3    Max residual = 3.9e-10
+Iteration = 4    Max residual = 9.9e-14
+
+
+
+Pitch Iteration 2
+
+
+
+Begin Newton's solver
+
+Iteration = 0    Max residual = 4.9e-01
+Iteration = 1    Max residual = 1.1e-05
+Iteration = 2    Max residual = 3.4e-12
+Iteration = 3    Max residual = 1.1e-13
+
+
+
+Pitch Iteration 3
+
+
+
+Begin Newton's solver
+
+Iteration = 0    Max residual = 1.6e-01
+Iteration = 1    Max residual = 9.5e-07
+Iteration = 2    Max residual = 9.9e-14
+
+
+
+Pitch Iteration 4
+
+
+
+Begin Newton's solver
+
+Iteration = 0    Max residual = 5.2e-02
+Iteration = 1    Max residual = 9.0e-08
+Iteration = 2    Max residual = 8.5e-14
+
+
+
+Pitch Iteration 5
+
+
+
+Begin Newton's solver
+
+Iteration = 0    Max residual = 1.7e-02
+Iteration = 1    Max residual = 8.8e-09
+Iteration = 2    Max residual = 1.1e-13
+
+
+
+Pitch Iteration 6
+
+
+
+Begin Newton's solver
+
+Iteration = 0    Max residual = 5.2e-03
+Iteration = 1    Max residual = 8.6e-10
+Iteration = 2    Max residual = 8.5e-14
+
+
+
+Pitch Iteration 7
+
+
+
+Begin Newton's solver
+
+Iteration = 0    Max residual = 1.6e-03
+Iteration = 1    Max residual = 8.5e-11
+Iteration = 2    Max residual = 8.5e-14
+
+
+
+Pitch Iteration 8
+
+
+
+Begin Newton's solver
+
+Iteration = 0    Max residual = 5.1e-04
+Iteration = 1    Max residual = 8.4e-12
+Iteration = 2    Max residual = 1.1e-13
+
+
+
+Pitch Iteration 9
+
+
+
+Begin Newton's solver
+
+Iteration = 0    Max residual = 1.6e-04
+Iteration = 1    Max residual = 8.3e-13

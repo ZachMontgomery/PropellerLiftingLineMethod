@@ -1,0 +1,13 @@
+number of propeller blades							2
+number of control points per blade					25
+	propeller radius									1.
+	hub radius											.1
+right/left-handed prop								-1.			(neg one for right and pos one for left)
+freestream velocity									40.
+	angular rate of prop in RPM							2400.
+	number of loops in helices							100.
+avg number of steps per loop						20.
+power clustering factor								1.2
+	relaxation factor for newton's method				.9
+	relaxation factor for pitch iteration				.5
+density												.0023769

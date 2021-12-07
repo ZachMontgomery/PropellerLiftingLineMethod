@@ -1,0 +1,33 @@
+Advance Ratio: 0.2, nodes: 10, pitch iteration: 0
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 7.2e+01, Approximate error from pitch solver is 0.0e+00
+
+Advance Ratio: 0.0, nodes: 10, pitch iteration: 0
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 2.8e+04, Approximate error from pitch solver is 0.0e+00
+
+Advance Ratio: 0.2, nodes: 40, pitch iteration: 0
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 2.4e+01, Approximate error from pitch solver is 0.0e+00
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 0
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 3.5e+03, Approximate error from pitch solver is 0.0e+00
+
+Advance Ratio: 0.5, nodes: 80, pitch iteration: 0
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 8.4e+01, Approximate error from pitch solver is 0.0e+00
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 0
+Failure due to max iterations which is       300, Max residual on exit is 3.6e+03, Approximate error from pitch solver is 0.0e+00
+
+Advance Ratio: 0.5, nodes: 160, pitch iteration: 0
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 7.8e+01, Approximate error from pitch solver is 0.0e+00
+
+Advance Ratio: 0.4, nodes: 160, pitch iteration: 0
+Failure due to max iterations which is       300, Max residual on exit is 1.0e+03, Approximate error from pitch solver is 0.0e+00
+
+Advance Ratio: 0.3, nodes: 160, pitch iteration: 0
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 5.8e+00, Approximate error from pitch solver is 0.0e+00
+
+Advance Ratio: 0.2, nodes: 160, pitch iteration: 0
+Failure due to max iterations which is       300, Max residual on exit is 1.6e+04, Approximate error from pitch solver is 0.0e+00
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 0
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 3.6e+02, Approximate error from pitch solver is 0.0e+00
+

@@ -1,0 +1,34 @@
+{
+	"propeller" : {
+		"tip radius" : 1.0,
+		"hub radius" : 0.1,
+		"direction of rotation" : "right-handed",
+		"RPMs" : 2400.0,
+		"pitch" : 120.0,
+		"manual pitch" : 0.0,
+		"blades" : {
+			"number" : 2,
+			"control points" : 40
+		}
+	},
+	"scenario" : {
+		"freestream velocity" : 0.0,
+		"advance ratio" : 0.6,
+		"Ct guess" : 0.08,
+		"density" : 0.0023769
+	},
+	"numerics" : {
+		"relaxation factor" : {
+			"newtons method" : 1.0,
+			"pitch solver" : 0.9
+		},
+		"helix" : {
+			"loops" : 100.0,
+			"downstream distance" : 80.0,
+			"steps" : 20.0,
+			"power factor" : 1.5,
+			"contraction distance" : 5.0,
+			"contraction percentage" : 0.93
+		}
+	}
+}

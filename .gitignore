@@ -1,0 +1,6 @@
+*.pdf
+*.png
+*.o
+*.mod
+__pycache__
+*.npy

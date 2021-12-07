@@ -1,0 +1,273 @@
+Advance Ratio: 0.0, nodes: 10, pitch iteration: 1
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 3.9e+01, Approximate error from pitch solver is 1.0e+00
+
+Advance Ratio: 0.0, nodes: 10, pitch iteration: 2
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 4.3e+01, Approximate error from pitch solver is 2.3e-01
+
+Advance Ratio: 0.0, nodes: 10, pitch iteration: 3
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 4.3e+01, Approximate error from pitch solver is 6.5e-02
+
+Advance Ratio: 0.0, nodes: 10, pitch iteration: 4
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 4.3e+01, Approximate error from pitch solver is 1.2e-02
+
+Advance Ratio: 0.0, nodes: 10, pitch iteration: 5
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 4.3e+01, Approximate error from pitch solver is 2.7e-03
+
+Advance Ratio: 0.0, nodes: 10, pitch iteration: 6
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 4.3e+01, Approximate error from pitch solver is 8.6e-04
+
+Advance Ratio: 0.0, nodes: 10, pitch iteration: 7
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 4.3e+01, Approximate error from pitch solver is 2.7e-04
+
+Advance Ratio: 0.0, nodes: 10, pitch iteration: 8
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 4.3e+01, Approximate error from pitch solver is 8.5e-05
+
+Advance Ratio: 0.0, nodes: 10, pitch iteration: 9
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 4.3e+01, Approximate error from pitch solver is 2.7e-05
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 2
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 2.5e+00, Approximate error from pitch solver is 2.5e-01
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 3
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e+01, Approximate error from pitch solver is 1.2e-01
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 4
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 2.3e+01, Approximate error from pitch solver is 2.1e-02
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 5
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e+01, Approximate error from pitch solver is 5.4e-03
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 6
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 2.3e+01, Approximate error from pitch solver is 2.5e-03
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 7
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e+01, Approximate error from pitch solver is 2.7e-03
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 8
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 2.3e+01, Approximate error from pitch solver is 2.2e-03
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 9
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e+01, Approximate error from pitch solver is 2.2e-03
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 10
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 2.3e+01, Approximate error from pitch solver is 2.2e-03
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 11
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e+01, Approximate error from pitch solver is 2.2e-03
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 12
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 2.3e+01, Approximate error from pitch solver is 1.8e-03
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 13
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e+01, Approximate error from pitch solver is 1.8e-03
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 14
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e+01, Approximate error from pitch solver is 1.5e-03
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 15
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 2.3e+01, Approximate error from pitch solver is 4.7e-04
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 16
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e+01, Approximate error from pitch solver is 1.9e-03
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 17
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e+01, Approximate error from pitch solver is 1.1e-03
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 18
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 2.3e+01, Approximate error from pitch solver is 5.5e-04
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 19
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e+01, Approximate error from pitch solver is 1.8e-03
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 20
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e+01, Approximate error from pitch solver is 8.0e-04
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 21
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e+01, Approximate error from pitch solver is 5.7e-04
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 22
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 2.3e+01, Approximate error from pitch solver is 4.0e-04
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 23
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e+01, Approximate error from pitch solver is 1.8e-03
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 24
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e+01, Approximate error from pitch solver is 4.6e-04
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 25
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e+01, Approximate error from pitch solver is 4.1e-04
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 26
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 2.3e+01, Approximate error from pitch solver is 3.7e-04
+
+Advance Ratio: 0.0, nodes: 40, pitch iteration: 27
+Failure due to pitch relaxation factor which is -0.050, Approximate error for the global pitch solver is: 1.7e-03
+
+Advance Ratio: 0.2, nodes: 80, pitch iteration: 2
+Failure due to max iterations which is       100, Max residual on exit is 9.7e-01, Approximate error from pitch solver is 3.6e-02
+
+Advance Ratio: 0.2, nodes: 80, pitch iteration: 3
+Failure due to max iterations which is       100, Max residual on exit is 3.2e-01, Approximate error from pitch solver is 4.6e-03
+
+Advance Ratio: 0.2, nodes: 80, pitch iteration: 4
+Failure due to max iterations which is       100, Max residual on exit is 6.5e-01, Approximate error from pitch solver is 6.8e-04
+
+Advance Ratio: 0.2, nodes: 80, pitch iteration: 5
+Failure due to max iterations which is       100, Max residual on exit is 6.6e-01, Approximate error from pitch solver is 1.7e-04
+
+Advance Ratio: 0.2, nodes: 80, pitch iteration: 6
+Failure due to max iterations which is       100, Max residual on exit is 6.6e-01, Approximate error from pitch solver is 3.1e-05
+
+Advance Ratio: 0.1, nodes: 80, pitch iteration: 1
+Failure due to max iterations which is       100, Max residual on exit is 3.9e-01, Approximate error from pitch solver is 1.0e+00
+
+Advance Ratio: 0.1, nodes: 80, pitch iteration: 2
+Failure due to max iterations which is       100, Max residual on exit is 2.8e+00, Approximate error from pitch solver is 8.8e-03
+
+Advance Ratio: 0.1, nodes: 80, pitch iteration: 3
+Failure due to max iterations which is       100, Max residual on exit is 2.7e+00, Approximate error from pitch solver is 3.1e-04
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 2
+Failure due to max iterations which is       100, Max residual on exit is 1.6e+04, Approximate error from pitch solver is 2.6e-01
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 3
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.9e+02, Approximate error from pitch solver is 6.3e-01
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 4
+Failure due to max iterations which is       100, Max residual on exit is 4.3e+04, Approximate error from pitch solver is 1.8e+00
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 5
+Failure due to max iterations which is       100, Max residual on exit is 1.9e+03, Approximate error from pitch solver is 8.7e-01
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 6
+Failure due to max iterations which is       100, Max residual on exit is 5.0e+04, Approximate error from pitch solver is 1.1e-01
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 7
+Failure due to max iterations which is       100, Max residual on exit is 4.2e+03, Approximate error from pitch solver is 9.8e-01
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 8
+Failure due to max iterations which is       100, Max residual on exit is 2.5e+04, Approximate error from pitch solver is 1.7e-01
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 9
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 2.2e+02, Approximate error from pitch solver is 8.3e-01
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 10
+Failure due to max iterations which is       100, Max residual on exit is 3.6e+03, Approximate error from pitch solver is 2.2e-01
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 11
+Failure due to max iterations which is       100, Max residual on exit is 1.6e+04, Approximate error from pitch solver is 1.3e-01
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 12
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.9e+02, Approximate error from pitch solver is 1.3e-01
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 13
+Failure due to max iterations which is       100, Max residual on exit is 1.4e+04, Approximate error from pitch solver is 1.2e-01
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 14
+Failure due to max iterations which is       100, Max residual on exit is 8.2e+03, Approximate error from pitch solver is 9.1e-02
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 15
+Failure due to max iterations which is       100, Max residual on exit is 6.0e+05, Approximate error from pitch solver is 8.4e-02
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 16
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 3.3e+02, Approximate error from pitch solver is 8.7e-02
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 17
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.2e+04, Approximate error from pitch solver is 4.5e-02
+
+Advance Ratio: 0.0, nodes: 80, pitch iteration: 18
+Failure due to pitch relaxation factor which is -0.050, Approximate error for the global pitch solver is: 5.8e-01
+
+Advance Ratio: 0.3, nodes: 160, pitch iteration: 1
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.7e+00, Approximate error from pitch solver is 1.0e+00
+
+Advance Ratio: 0.2, nodes: 160, pitch iteration: 1
+Failure due to max iterations which is       100, Max residual on exit is 1.7e+04, Approximate error from pitch solver is 1.0e+00
+
+Advance Ratio: 0.2, nodes: 160, pitch iteration: 2
+Failure due to max iterations which is       100, Max residual on exit is 7.5e-01, Approximate error from pitch solver is 1.9e-01
+
+Advance Ratio: 0.2, nodes: 160, pitch iteration: 3
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.4e-01, Approximate error from pitch solver is 2.0e-01
+
+Advance Ratio: 0.2, nodes: 160, pitch iteration: 4
+Failure due to max iterations which is       100, Max residual on exit is 1.0e-01, Approximate error from pitch solver is 7.5e-02
+
+Advance Ratio: 0.2, nodes: 160, pitch iteration: 5
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 5.3e-02, Approximate error from pitch solver is 1.5e-02
+
+Advance Ratio: 0.2, nodes: 160, pitch iteration: 6
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.3e-01, Approximate error from pitch solver is 4.2e-03
+
+Advance Ratio: 0.2, nodes: 160, pitch iteration: 7
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.9e-01, Approximate error from pitch solver is 3.0e-03
+
+Advance Ratio: 0.2, nodes: 160, pitch iteration: 8
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.9e-01, Approximate error from pitch solver is 7.3e-04
+
+Advance Ratio: 0.2, nodes: 160, pitch iteration: 9
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.9e-01, Approximate error from pitch solver is 1.8e-04
+
+Advance Ratio: 0.2, nodes: 160, pitch iteration: 10
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.9e-01, Approximate error from pitch solver is 4.2e-05
+
+Advance Ratio: 0.2, nodes: 160, pitch iteration: 11
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 1.9e-01, Approximate error from pitch solver is 1.0e-05
+
+Advance Ratio: 0.1, nodes: 160, pitch iteration: 1
+Failure due to max iterations which is       100, Max residual on exit is 8.7e-03, Approximate error from pitch solver is 1.0e+00
+
+Advance Ratio: 0.1, nodes: 160, pitch iteration: 2
+Failure due to max iterations which is       100, Max residual on exit is 3.9e-02, Approximate error from pitch solver is 3.8e-02
+
+Advance Ratio: 0.1, nodes: 160, pitch iteration: 3
+Failure due to max iterations which is       100, Max residual on exit is 4.7e-02, Approximate error from pitch solver is 6.6e-04
+
+Advance Ratio: 0.1, nodes: 160, pitch iteration: 4
+Failure due to max iterations which is       100, Max residual on exit is 4.7e-02, Approximate error from pitch solver is 3.3e-05
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 1
+Failure due to max iterations which is       100, Max residual on exit is 7.6e+05, Approximate error from pitch solver is 1.0e+00
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 2
+Failure due to max iterations which is       100, Max residual on exit is 8.6e+05, Approximate error from pitch solver is 7.0e-01
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 3
+Failure due to max iterations which is       100, Max residual on exit is 2.7e+05, Approximate error from pitch solver is 1.9e+00
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 4
+Failure due to max iterations which is       100, Max residual on exit is 5.0e+06, Approximate error from pitch solver is 9.0e-01
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 5
+Failure due to max iterations which is       100, Max residual on exit is 6.9e+03, Approximate error from pitch solver is 4.7e-01
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 6
+Failure due to max iterations which is       100, Max residual on exit is 4.7e+03, Approximate error from pitch solver is 1.5e+00
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 7
+Failure due to max iterations which is       100, Max residual on exit is 7.2e+10, Approximate error from pitch solver is 6.6e-01
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 8
+Failure due to max iterations which is       100, Max residual on exit is 4.4e+02, Approximate error from pitch solver is 1.0e+00
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 9
+Failure due to max iterations which is       100, Max residual on exit is 9.9e+03, Approximate error from pitch solver is 9.2e-01
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 10
+Failure due to max iterations which is       100, Max residual on exit is 2.2e+05, Approximate error from pitch solver is 4.5e-02
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 11
+Failure due to max iterations which is       100, Max residual on exit is 1.3e+03, Approximate error from pitch solver is 2.0e-01
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 12
+Failure due to relaxation factor which is -0.000, Max residual on exit is: 4.0e+02, Approximate error from pitch solver is 1.3e-01
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 13
+Failure due to max iterations which is       100, Max residual on exit is 4.9e+09, Approximate error from pitch solver is 3.5e-01
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 14
+Failure due to max iterations which is       100, Max residual on exit is 7.2e+01, Approximate error from pitch solver is 9.9e-01
+
+Advance Ratio: 0.0, nodes: 160, pitch iteration: 15
+Failure due to pitch relaxation factor which is -0.050, Approximate error for the global pitch solver is: 2.0e+01
+

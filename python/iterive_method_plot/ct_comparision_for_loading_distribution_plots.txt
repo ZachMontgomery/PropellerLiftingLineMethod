@@ -1,0 +1,3 @@
+				Coefficient of Thrust
+bet				0.06927810328314743
+pll				0.07156358099339831

@@ -1,0 +1,10 @@
+	Blades		Total Thrust (lbf)		Moment (ft*lbf)
+	2			795						390
+	3			942						513
+	4			1034					602
+	5			1097					667
+	6			1143					718
+
+
+	Advance Ratio for all cases J = .03
+
